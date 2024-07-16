@@ -1,0 +1,31 @@
+ 
+.ControlPanel {
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .ControlPanel h3 {
+    margin-bottom: 10px;
+  }
+  
+  .ControlPanel button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .ControlPanel button:hover {
+    background-color: #45a049;
+  }
+  
+  .ControlPanel input {
+    width: 50px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
